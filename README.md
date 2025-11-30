@@ -91,8 +91,6 @@ O projeto está hospedado via GitHub Pages.
 Acesse:  
 
 
-https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
-
 
 (Atualize com o seu link real após publicar.)
 
